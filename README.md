@@ -11,7 +11,7 @@ I'm a Software Engineer, and a product designer who currently studying as a Deve
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Product Designer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing akoredeishola10@gmail.com.
+- 📫 You can contact me by emailing akoredeishola10@gmail.com.
 
 ---
 
