@@ -15,5 +15,5 @@ I'm a Software Engineer who is currently studying at [Altschool Africa](https://
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishola10&show_icons=true&include_all_commits=true&hide_border=true" alt="Ishola' s GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishola10&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishola10&show_icons=true&include_all_commits=true&hide_border=true" alt="Ishola' s GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishola10&langs_count=8&layout=compact&hide_border=true" alt="ishola's GitHub stats" /> |
 | ------------- | ------------- |
