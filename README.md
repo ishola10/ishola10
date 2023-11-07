@@ -1,4 +1,6 @@
 # Hello there; welcome 👋🏾
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ishola's+Github+page;I'm+a+Frontend+Developer+and+a+Physisc+Enthusiast)](https://git.io/typing-svg)
+
 
  [![Linkedin Badge](https://img.shields.io/badge/-badmusmuhammed-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/badmus-muhammed)](https://www.linkedin.com/in/badmus-muhammed-a02303258) [![Twitter Badge](https://img.shields.io/badge/-@Atomdevv-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Atomdevv)](https://twitter.com/Atomdevv)
 
