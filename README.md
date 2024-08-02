@@ -12,7 +12,7 @@ I'm a Software Engineer who studied at [Altschool Africa](https://www.altschoola
 - 💡 Fun fact: Studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023 and currently studying at Alx Africa.
 - 🌱 Proficient with JavaScript, Vuejs, Typescript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level, Senior level).
 - 📫 You can contact me by emailing akoredeishola10@gmail.com.
 
 ---
